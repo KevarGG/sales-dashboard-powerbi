@@ -1,1 +1,7 @@
-# sales-dashboard-powerbi
+# Retail Sales Performance Dashboard — Power BI
+
+The Retail Sales Performance Dashboard is an interactive business intelligence project developed using Power BI to analyze retail sales performance across different product categories, customer segments, and time periods. The objective of this dashboard is to transform raw transactional data into meaningful business insights that support data-driven decision-making. The dataset contains sales information such as order dates, product categories including Electronics, Clothing, and Beauty, customer gender, quantity sold, unit price, and total sales amount.
+
+The dashboard was built using data modeling techniques and DAX measures to calculate key performance indicators, including Total Sales, Average Sales Value, Total Orders, and Quantity Sold. Custom measures were created to improve analytical flexibility and ensure dynamic calculations across filters and time dimensions. Interactive visualizations allow users to explore monthly and daily sales trends, compare category performance, and analyze revenue distribution by customer demographics.
+
+This project demonstrates practical skills in data cleaning, data modeling, DAX measure creation, and professional dashboard design in Power BI, emphasizing the ability to convert business data into clear, interactive, and actionable visual analytics suitable for real-world business scenarios.
